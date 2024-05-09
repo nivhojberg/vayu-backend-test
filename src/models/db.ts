@@ -8,4 +8,3 @@ mongoose.connect('mongodb://localhost:27017/VayuBackendTestDB').then(() => {
 });
 
 import './user.model.js';
-// require('./user.model');
